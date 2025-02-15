@@ -28,4 +28,3 @@ This project, **GithubExercise2**, is a Python program that generates an array o
    - Calculates the range of the sorted array.
    - The range is the difference between the maximum and minimum values in the array.
    - Prints the range.
-
